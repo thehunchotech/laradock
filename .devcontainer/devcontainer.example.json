@@ -1,5 +1,5 @@
 {
-  "name": "Laradock",
+  ".env": "Laradock",
   "dockerComposeFile": "../docker-compose.yml",
   "remoteUser": "laradock",
   "runServices": [
